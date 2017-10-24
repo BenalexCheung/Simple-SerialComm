@@ -1,0 +1,9 @@
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\bin\Debug\CSharp_simple_SerialComm.exe
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\bin\Debug\CSharp_simple_SerialComm.pdb
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\CSharp_simple_SerialComm.Form1.resources
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\CSharp_simple_SerialComm.Properties.Resources.resources
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\CSharp_simple_SerialComm.exe
+C:\Users\ben_a\Documents\Visual Studio 2010\Projects\CSharp_simple_SerialComm\obj\x86\Debug\CSharp_simple_SerialComm.pdb
